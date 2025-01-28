@@ -4,4 +4,4 @@
 
 Para ajecutar el sistema debes poner:
 
-bla bla bla...
+npm install react
